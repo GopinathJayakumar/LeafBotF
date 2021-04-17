@@ -3,13 +3,13 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.leafBot.testcases.TC001_LoginLogOut"/>
-      <class name="com.leafBot.testcases.TC002_LoginForFailure"/>
+      <!-- <class name="com.leafBot.testcases.TC001_LoginLogOut"/>-->
+     <!--  <class name="com.leafBot.testcases.TC002_LoginForFailure"/>-->
       <class name="com.leafBot.testcases.TC003_CreateLead"/>
-      <class name="com.leafBot.testcases.TC004_EditLead"/>
-      <class name="com.leafBot.testcases.TC005_DeleteLead"/>
-      <class name="com.leafBot.testcases.TC006_DuplicateLead"/>
-      <class name="com.leafBot.testcases.TC007_MergeLead"/>
+     <!--  <class name="com.leafBot.testcases.TC004_EditLead"/>-->
+      <!-- <class name="com.leafBot.testcases.TC005_DeleteLead"/>-->
+      <!-- <class name="com.leafBot.testcases.TC006_DuplicateLead"/>-->
+      <!-- <class name="com.leafBot.testcases.TC007_MergeLead"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
